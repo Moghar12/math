@@ -120,6 +120,6 @@ class IntegralCalculator(tk.Frame):
 
 if __name__ == "__main__":
     root = tk.Tk()
-    root.title("Calcul d'Intégrale")  # Mettez à jour le titre ici
+    root.title("Calcul d'Intégrale") 
     app = IntegralCalculator(root)
     root.mainloop()
